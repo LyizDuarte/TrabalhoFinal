@@ -1,0 +1,17 @@
+{
+  "name": "trabalhofinalv3",
+  "version": "1.0.0",
+  "description": "Trabalho Final de Progamação para Internet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
